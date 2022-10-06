@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front-end development,Mobile development,UI/UX design**
 
-- 💬 Ask me about **HTML,CSS,JS etc**
+- 💬 Ask me about **HTML,CSS,JS,UI/UX etc**
 
 - 📫 How to reach me **manumadhavs488@gmail.com**
 
